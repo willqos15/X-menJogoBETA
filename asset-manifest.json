@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/X-menJogoBETA/static/css/main.e729c3cd.css",
+    "main.js": "/X-menJogoBETA/static/js/main.dd5b5bc2.js",
+    "static/js/453.8f8f7254.chunk.js": "/X-menJogoBETA/static/js/453.8f8f7254.chunk.js",
+    "static/media/T_Principal.png": "/X-menJogoBETA/static/media/T_Principal.90a712a288dbca431943.png",
+    "static/media/T_Selecao.jpg": "/X-menJogoBETA/static/media/T_Selecao.f26acd561fb8e509745d.jpg",
+    "static/media/C_Sentinela.png": "/X-menJogoBETA/static/media/C_Sentinela.05397c49f903e6605a68.png",
+    "static/media/T_Sala_de_perigo.webp": "/X-menJogoBETA/static/media/T_Sala_de_perigo.41e3978ebcdb43dc8ae0.webp",
+    "index.html": "/X-menJogoBETA/index.html",
+    "main.e729c3cd.css.map": "/X-menJogoBETA/static/css/main.e729c3cd.css.map",
+    "main.dd5b5bc2.js.map": "/X-menJogoBETA/static/js/main.dd5b5bc2.js.map",
+    "453.8f8f7254.chunk.js.map": "/X-menJogoBETA/static/js/453.8f8f7254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e729c3cd.css",
+    "static/js/main.dd5b5bc2.js"
+  ]
+}
