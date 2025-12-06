@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/X-menJogoBETA/static/css/main.e729c3cd.css",
     "main.js": "/X-menJogoBETA/static/js/main.dd5b5bc2.js",
     "static/js/453.8f8f7254.chunk.js": "/X-menJogoBETA/static/js/453.8f8f7254.chunk.js",
@@ -15,5 +16,23 @@
   "entrypoints": [
     "static/css/main.e729c3cd.css",
     "static/js/main.dd5b5bc2.js"
+=======
+    "main.css": "/X-menJogoBETA/static/css/main.53682add.css",
+    "main.js": "/X-menJogoBETA/static/js/main.9554b454.js",
+    "static/js/453.8f8f7254.chunk.js": "/X-menJogoBETA/static/js/453.8f8f7254.chunk.js",
+    "static/media/foto.jpeg": "/X-menJogoBETA/static/media/foto.75ef2a5a942135a3f851.jpeg",
+    "static/media/T_Principal.png": "/X-menJogoBETA/static/media/T_Principal.90a712a288dbca431943.png",
+    "static/media/T_Selecao.jpg": "/X-menJogoBETA/static/media/T_Selecao.f26acd561fb8e509745d.jpg",
+    "static/media/T_Sobre.png": "/X-menJogoBETA/static/media/T_Sobre.fed16bec78cc19a4bc54.png",
+    "static/media/T_Sala_de_perigo.webp": "/X-menJogoBETA/static/media/T_Sala_de_perigo.41e3978ebcdb43dc8ae0.webp",
+    "index.html": "/X-menJogoBETA/index.html",
+    "main.53682add.css.map": "/X-menJogoBETA/static/css/main.53682add.css.map",
+    "main.9554b454.js.map": "/X-menJogoBETA/static/js/main.9554b454.js.map",
+    "453.8f8f7254.chunk.js.map": "/X-menJogoBETA/static/js/453.8f8f7254.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53682add.css",
+    "static/js/main.9554b454.js"
+>>>>>>> 422b7cd (versao 2.0)
   ]
 }
