@@ -8,7 +8,7 @@ Este repositório contém **apenas os arquivos de build** do projeto, prontos pa
 ## ⚠️ Observação
 As informações sobre o código fonte, desenvolvimento, dependências e scripts estão disponíveis no **repositório principal do projeto**:
 
-(https://github.com/seuusuario/xmen-sala-de-perigo)
+(https://github.com/willqos15/X-men-Jogo-React)
 
 ---
 ## Resumo:
